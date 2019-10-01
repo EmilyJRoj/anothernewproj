@@ -15,7 +15,7 @@ print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 print(3 + 2< 5 - 7)
 
 # make more math problems
-
+print(5 + 3 + 2 - 5 % 6 / 6 + 8)
 
 
 

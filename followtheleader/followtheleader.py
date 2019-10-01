@@ -16,6 +16,7 @@ print(3 + 2< 5 - 7)
 
 # make more math problems
 print(5 + 3 + 2 - 5 % 6 / 6 + 8)
-
+# fixing the math
+print(5.0 + 3.3 + 2.0 - 5.0 % 6.7 / 6.0 + 8.0)
 
 

@@ -23,6 +23,7 @@ for sides in range(8, 100, 8):
 # Experiment with the loop above alongside the actual value of pi. How many
 # sides does it take to make the two close?
 
+# 102 sides.
 
 
 

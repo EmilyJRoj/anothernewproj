@@ -34,8 +34,14 @@ for X in range(1, 6):
 print(acc)
 
 # compute the sum of the first 100 even numbers
+# 25
+
 # compute the sum of the first 50 odd numbers
+#24
+
 # compute the average of the first 100 odd numbers
+
+
 # write a function that returns the average of the first N numbers, where N is a parameter.
 # each number in the fibonacci sequence is the sum of the previous two numbers
 # the first two numbers in the sequence are 1 and 1. compute the 10th fibonacci.

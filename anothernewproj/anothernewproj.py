@@ -40,12 +40,20 @@ print(acc)
 #24
 
 # compute the average of the first 100 odd numbers
-
+# 53
 
 # write a function that returns the average of the first N numbers, where N is a parameter.
+
+
 # each number in the fibonacci sequence is the sum of the previous two numbers
+
+
 # the first two numbers in the sequence are 1 and 1. compute the 10th fibonacci.
+
+
 # write a function to compute the Nth fibonacci number, where N is a parameter.
+
+
 # you may assume that N will be greater than or equal to 3.
 
 

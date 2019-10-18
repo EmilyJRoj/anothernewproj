@@ -15,10 +15,10 @@ def archimedes(numsides, numSides):
     pi = polygonCircumference / 2
     return pi
 
-print(archimedes(16))
+print(archimedes(16)'numsides)
 
 for sides in range(8, 100, 8):
-    print(sides, archimedes(sides))
+    print(sides, archimedes('numsides))
 
 # Experiment with the loop above alongside the actual value of pi. How many
 # sides does it take to make the two close?
@@ -37,24 +37,69 @@ print(acc)
 # 25
 
 # compute the sum of the first 50 odd numbers
-#24
+# 24
 
 # compute the average of the first 100 odd numbers
 # 53
 
-# write a function that returns the average of the first N numbers, where N is a parameter.
-
-
-# each number in the fibonacci sequence is the sum of the previous two numbers
-
-
+# each number in the fibonacci sequence is the sum of the previous two numbers.
 # the first two numbers in the sequence are 1 and 1. compute the 10th fibonacci.
-
-
 # write a function to compute the Nth fibonacci number, where N is a parameter.
-
-
 # you may assume that N will be greater than or equal to 3.
+
+
+# the monte carlo simulation
+import random
+
+print(random.random())
+
+# boolean expressions
+# > greater than
+# >= greater than or equal to
+# < less than
+# <= less than or equal to
+# == equal to
+# |= not equal to
+
+dogweight = 25
+print(dogweight > 25)
+catweight = 15
+
+# compound boolean operators
+# and
+# or
+# not
+
+print(dogweight < 30 or catweight < 20)
+print(not catweight < 20)
+
+
+# decision making -- selection statements
+a = 5
+b = 10
+c = 75
+
+if a <= b :
+    c = 45
+
+print(c)
+
+if a > b:
+    c = 45
+    if b > c:
+        a = 25
+    else:
+        a = -25
+else:
+    c = 1050
+    if b == a:
+        c = 25
+
+
+print(a, b, c)
+
+
+
 
 
 
